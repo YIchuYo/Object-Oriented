@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>card.qml</file>
+        <file>ColorPicker.qml</file>
+        <file>Main1.qml</file>
+        <file>Main1Form.ui.qml</file>
+    </qresource>
+</RCC>
